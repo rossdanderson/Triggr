@@ -1,0 +1,6 @@
+{
+  "name": "Triggr",
+  "tagline": "Simple Arduino sketch for ProntoEdit Hex codes to IR bursts",
+  "body": "Triggr\r\n======\r\n\r\nA simple Arduino sketch to convert a given ProntoEdit Hex code into a IR burst signal. Enables control of IR devices such as TVs, Cameras, etc.\r\n\r\nThe included code will trigger the shutter of a Sony NEX-5 Camera once a minute.\r\n\r\nThe following page is useful for learning about the ProntoEdit Hex format:\r\nhttp://www.remotecentral.com/features/irdisp2.htm",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
